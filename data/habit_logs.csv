@@ -1,0 +1,28 @@
+user_id,habit_id,log_date,status,note
+1,1,2025-12-01,true,Felt very calm and centered
+1,2,2025-12-01,true,Completed all 8 glasses
+1,1,2025-12-02,true,Good session, felt refreshed
+1,2,2025-12-02,false,Only had 5 glasses, need to improve
+1,3,2025-12-02,true,Went for a morning run
+2,3,2025-12-01,true,Went for a run in the park
+2,4,2025-12-01,true,Read chapter 3 of my book
+2,3,2025-12-02,true,30 min gym session
+2,4,2025-12-02,true,Read chapter 4
+3,5,2025-12-01,true,Reflected on the day
+3,1,2025-12-02,true,Tried meditation for the first time
+4,3,2025-12-01,true,Morning jog completed
+4,6,2025-12-01,true,Evening stretch felt great
+4,3,2025-12-02,true,Cycling session
+5,1,2025-12-01,true,Meditation helped with anxiety
+5,5,2025-12-01,true,Journaled about work stress
+5,1,2025-12-02,true,10 min guided meditation
+6,7,2025-12-01,true,Healthy breakfast with fruits
+6,8,2025-12-01,true,No phone before bed, slept better
+6,7,2025-12-02,true,Oatmeal and berries
+7,9,2025-12-01,true,15 min walk during lunch break
+7,10,2025-12-01,true,Grateful for family and health
+7,9,2025-12-02,true,Evening walk with dog
+8,1,2025-12-01,true,Morning meditation improved focus
+8,8,2025-12-01,true,No phone before bed
+8,1,2025-12-02,true,Deep breathing exercises
+
